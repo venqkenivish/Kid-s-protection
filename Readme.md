@@ -1,0 +1,1 @@
+# This is a main Documentation for app: "**Kid's protection**"
